@@ -2,7 +2,7 @@
 [![GitHub arziv](https://img.shields.io/github/followers/arziv?label=follow&style=social)](https://github.com/arziv)
 
 - 🔭 I’m Software Engineer Student at @ALX
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about any thing, be sure I'll be genrous
 
