@@ -12,4 +12,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 
 
-<a href="https://github.com/arzi"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=arziv&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arziv&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7" /></a>
+<a href="https://github.com/arziv"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=arziv&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arziv&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7" /></a>
